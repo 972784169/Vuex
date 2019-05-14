@@ -1,6 +1,6 @@
 # vue-vuex
 
-> A Vue.js project
+> vuex的简单使用，很适合新手学习。希望在编程的道路上更上一层楼
 
 ## Build Setup
 
