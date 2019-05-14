@@ -5,6 +5,8 @@
 ## Build Setup
 
 ``` bash
+git clone https://github.com/972784169/vuex.git
+
 # install dependencies
 npm install
 
